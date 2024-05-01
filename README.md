@@ -29,3 +29,6 @@ The following tools were used for different areas of the project:
   - `Confusion matrix`: a table for assessing the quality of our classification model prediction
     
 * Deployment: `Streamlit`
+
+  
+[Deployment Video](https://drive.google.com/file/d/1au9e2ZktGYgLRaNbbqU1OApW5GlkAH4a/view?usp=drive_link)
