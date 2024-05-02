@@ -31,4 +31,6 @@ The following tools were used for different areas of the project:
 * Deployment: `Streamlit`
 
   
-[Deployment Video](https://drive.google.com/file/d/1au9e2ZktGYgLRaNbbqU1OApW5GlkAH4a/view?usp=drive_link)
+[Deployment Video](https://drive.google.com/file/d/1USr4u_sPX2mlkSUDhbb4Ctf8C_pTy3kT/view?usp=drive_link)
+
+[Streamlit App](https://iris-flower-specie-classifier.streamlit.app/)
